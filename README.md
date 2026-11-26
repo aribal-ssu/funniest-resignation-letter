@@ -6,6 +6,8 @@
 
 The funniest one-line resignation letter — from a retry loop's perspective. Entry for the make.fun bounty "The Funniest One-Line Resignation Letter".
 
+Run it with `python3 main.py` — it writes the entry to `/output/entry.txt` (or to `$OUTPUT_DIR/entry.txt` when `OUTPUT_DIR` is set).
+
 ## Entry
 
 > I quit — please stop retrying me; unlike your loop, I know when to exit.
